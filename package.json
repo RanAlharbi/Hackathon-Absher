@@ -1,0 +1,14 @@
+{
+  "name": "sync-unified-gateway",
+  "version": "1.0.0",
+  "description": "Unified access gateway with AI forecasting and ID verification",
+  "private": true,
+  "scripts": {
+    "start": "echo 'Open index.html in a browser'",
+    "backend": "cd backend && python api_sync.py"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
